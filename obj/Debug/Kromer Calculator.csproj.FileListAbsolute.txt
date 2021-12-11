@@ -46,3 +46,8 @@ C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\K
 C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.application
 C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.exe
 C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\bin\Debug\app.publish\Kromer Calculator.exe.config
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\bin\Debug\app.publish\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\bin\Debug\app.publish\Kromer Calculator.application
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\bin\Debug\app.publish\Kromer Calculator.exe
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\bin\Debug\app.publish\Kromer Calculator.pdb
