@@ -1,0 +1,48 @@
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\bin\Debug\Kromer Calculator.exe.config
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\bin\Debug\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\bin\Debug\Kromer Calculator.application
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\bin\Debug\Kromer Calculator.exe
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\bin\Debug\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\obj\Debug\Kromer Calculator.csproj.AssemblyReference.cache
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\obj\Debug\Kromer Calculator.csproj.CoreCompileInputs.cache
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\obj\Debug\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\obj\Debug\Kromer Calculator.application
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\obj\Debug\Kromer Calculator.exe
+C:\Users\streetz\Desktop\Kromer Calculator (Euro)\Kromer Calculator\obj\Debug\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\Kromer Calculator 1.0.0\Kromer Calculator.exe.config
+C:\Users\streetz\Desktop\Kromer Calculator 1.0.0\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\Kromer Calculator 1.0.0\Kromer Calculator.application
+C:\Users\streetz\Desktop\Kromer Calculator 1.0.0\Kromer Calculator.exe
+C:\Users\streetz\Desktop\Kromer Calculator 1.0.0\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe.config
+C:\Users\streetz\Desktop\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.application
+C:\Users\streetz\Desktop\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe
+C:\Users\streetz\Desktop\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.pdb
+C:\Users\streetz\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe.config
+C:\Users\streetz\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe.manifest
+C:\Users\streetz\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.application
+C:\Users\streetz\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe
+C:\Users\streetz\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\Kromer Calculator Project\obj\Debug\Kromer Calculator.csproj.AssemblyReference.cache
+C:\Users\streetz\Desktop\Kromer Calculator Project\obj\Debug\Kromer Calculator.csproj.CoreCompileInputs.cache
+C:\Users\streetz\Desktop\Kromer Calculator Project\obj\Debug\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\Kromer Calculator Project\obj\Debug\Kromer Calculator.application
+C:\Users\streetz\Desktop\Kromer Calculator Project\obj\Debug\Kromer Calculator.exe
+C:\Users\streetz\Desktop\Kromer Calculator Project\obj\Debug\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe.config
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.application
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.exe
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.0.0\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\obj\Debug\Kromer Calculator.csproj.AssemblyReference.cache
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\obj\Debug\Kromer Calculator.csproj.CoreCompileInputs.cache
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\obj\Debug\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\obj\Debug\Kromer Calculator.application
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\obj\Debug\Kromer Calculator.exe
+C:\Users\streetz\Desktop\C#\Kromer Calculator Project\obj\Debug\Kromer Calculator.pdb
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.exe.config
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.exe.manifest
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.application
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.exe
+C:\Users\streetz\Desktop\C#\Kromer Calculator Versions\Kromer Calculator 2.5.0\Kromer Calculator.pdb
